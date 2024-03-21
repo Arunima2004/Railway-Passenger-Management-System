@@ -7,6 +7,7 @@ This report serves as a comprehensive documentation of the RAILWAY MANAGEMENT SY
 Through this report, we embark on a journey through the intricacies of database-driven railway management, highlighting the amalgamation of technology and operational expertise aimed at revolutionizing the railway industry.
 
 1.1	PRESENT SYSTEM
+
 In the Railway Management System (RAILWAY MANAGEMENT SYSTEM) project, several aspects align with current engineering scenarios and related project works. Here are some aspects:
 
 (i)	Database Management and Optimization:
@@ -19,6 +20,7 @@ Like other current engineering projects, the RAILWAY MANAGEMENT SYSTEM prioritiz
 Security remains a critical concern in engineering projects. The RAILWAY MANAGEMENT SYSTEM implements stringent security measures to safeguard passenger information, payment details, and operational data. Similar concerns are addressed in various contemporary engineering projects dealing with sensitive data.
 
 1.2	PROPOSED SYSTEM
+
 Here are some proposed enhancements and future directions for the Railway Management System (RAILWAY MANAGEMENT SYSTEM) project:
 
 (i)	Enhanced Security Measures:
