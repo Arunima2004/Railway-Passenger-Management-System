@@ -102,14 +102,19 @@ The tables made are given below:
 6.1	Results:
 
 Functional Evaluation: Assess the functionalities of the RAILWAY MANAGEMENT SYSTEM against the initially defined requirements. Highlight how well the system perfoRailway Management System in managing ticketing, scheduling, passenger information, etc.
+
 Performance Metrics: Present quantitative data on system performance, such as response times, database query speeds, and concurrent user handling capacity.
+
 User Feedback and Adoption: Include feedback from stakeholders, operators, and users who interacted with the system during testing and deployment phases.
+
 Comparison with Goals: Compare the achieved results with the predefined project goals and objectives.
 
 6.2	Discussion:
 
 Effectiveness of Functionality: Discuss the effectiveness of the implemented functionalities in meeting the needs of the railway system. Highlight successful features and areas for potential improvement.
+
 Usability and User Experience: Evaluate the user-friendliness and ease of use of the RAILWAY MANAGEMENT SYSTEM interfaces. Discuss user adoption rates and any challenges encountered in user acceptance.
+
 Performance Analysis: Analyze the system's performance metrics and discuss any bottlenecks or areas where optimization is required. Address how performance impacts the overall efficiency of railway operations.
  
 # 7. CONCLUSION AND FURTHER SCOPE:
@@ -117,11 +122,14 @@ Performance Analysis: Analyze the system's performance metrics and discuss any b
 Conclusion:
 
 Achievements of Objectives: Recap the primary objectives of the RAILWAY MANAGEMENT SYSTEM project and how successfully they were achieved. Discuss the alignment of the implemented system with the initial goals.
+
 Key Findings:Summarize the major findings and results obtained from the evaluation of the RAILWAY MANAGEMENT SYSTEM. Highlight the system's strengths and areas that may need improvement.
+
 Impact and Significance: Discuss the impact of the RAILWAY MANAGEMENT SYSTEM on railway operations, passenger experience, and overall efficiency. Emphasize the significance of the system in modernizing railway management.
 
 Further Scope:
 
 Enhancements and Upgrades: Propose specific enhancements or features that could further improve the RAILWAY MANAGEMENT SYSTEM. For instance, incorporating predictive analytics, integrating IoT devices for real-time monitoring, or expanding mobile app functionalities.
+
 Technological Advancements: Discuss potential advancements in technology that could be integrated into the RAILWAY MANAGEMENT SYSTEM, such as AI-based predictive maintenance, blockchain for secure transactions, or enhanced cybersecurity measures.
 
